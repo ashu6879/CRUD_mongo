@@ -1,0 +1,29 @@
+body {
+    background-color: #f4f4f4;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.navbar-nav .nav-link {
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.navbar-nav .nav-link img {
+    margin-right: 8px;
+}
+
+.card {
+    border-radius: 8px;
+}
+
+.table-container {
+    margin-top: 20px;
+}
+
+.table-container h2 {
+    margin-bottom: 20px;
+}
